@@ -3,6 +3,6 @@
 
 界面如下：
 
-![image-20230318123115196](C:\Users\21431\Desktop\新建文件夹\Recipe-management-system\README.assets\image-20230318123115196.png)
+![image-20230318123115196](./images/1.png)
 
-![image-20230318123138962](C:\Users\21431\Desktop\新建文件夹\Recipe-management-system\README.assets\image-20230318123138962.png)
+![image-20230318123138962](./images/2.png)
